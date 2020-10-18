@@ -12,7 +12,7 @@ Fix this and protect the testing code against:
 
 Always use a solution related to web services. It is super easy!
 
-## Secondary (:gift:) goals
+## Secondary goals (:gift:)
 
 Solutions must meet primary goals too. 
 
