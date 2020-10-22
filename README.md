@@ -32,5 +32,6 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 
 |NIA    | User name | Repo | Build Status | What was explored | Review for :gift: | Score
 |-------|-----------|------|--------------|-------------------|----------------------|--------
-|758906|[rauljavierre](https://github.com/rauljavierre)|[rauljavierre/lab2-big-ws](https://github.com/rauljavierre/lab2-big-ws)|![Build Status](https://travis-ci.com/rauljavierre/lab2-big-ws.svg)|JUnit, code generation|Re-implement the project with [GraphQL](https://www.graphql-java.com/tutorials/getting-started-with-spring-boot/)|
+|758906 |[Raul Javierre](https://github.com/rauljavierre)|[rauljavierre/lab2-big-ws](https://github.com/rauljavierre/lab2-big-ws/tree/test)|![Build Status](https://travis-ci.com/rauljavierre/lab2-big-ws.svg)|JUnit, code generation|Re-implement the project with [GraphQL](https://www.graphql-java.com/tutorials/getting-started-with-spring-boot/)|
+|758267 |[Pedro Allué](https://github.com/piter1902)|[piter1902/lab2-big-ws](https://github.com/piter1902/lab2-big-ws/tree/test) |  [![Build Status](https://travis-ci.com/piter1902/lab2-big-ws.svg?branch=test)](https://travis-ci.com/piter1902/lab2-big-ws)    |  JUnit Tests     |                      |
 
