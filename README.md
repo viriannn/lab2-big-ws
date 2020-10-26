@@ -31,5 +31,4 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 
 |NIA    | User name | Repo | Build Status | What was explored | Review for :gift: | Score
 |-------|-----------|------|--------------|-------------------|----------------------|--------
-|       |           |      |              |                   |                      |
-
+|758325 |[Irene Fumanal](https://github.com/irefu)|[irefu/lab2-big-ws](https://github.com/irefu/lab2-big-ws/tree/test) |  [![Build Status](https://travis-ci.org/irefu/lab2-big-ws.svg?branch=test)](https://travis-ci.org/github/irefu/lab2-big-ws)    |  JUnit Tests and Exception    |                      |
