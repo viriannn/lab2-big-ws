@@ -17,7 +17,11 @@ Always use a solution related to web services. It is super easy!
 
 Solutions must meet primary goals too. 
 
-- Upgrade to WSDL 2.0 and SOAP 1.2
+Granted:
+- [Upgrade to WSDL 2.0 and SOAP 1.2](https://github.com/luisgg98/lab2-big-ws/tree/WSDL2.0_AND_SOAP1.2). Achieving this goal Luis García has learnt that the support promised by Spring Web Services for WSDL 2.0 is deceiving but the support for SOAP 1.2 is ok and can be used as transport independed of the WSDL version used :gift:
+
+Proposed:
+
 - Secure the endpoint [WS-Security](https://docs.spring.io/spring-ws/docs/3.0.10.RELEASE/reference/#security)
 - Project splits in two (client/server), and the `build.gradle` of the client generates classes from a `wsdl` file retrieved from the server during the build 
 - Re-implement the project following [Writing Contract-First Web Services tutorial](https://docs.spring.io/spring-ws/docs/3.0.10.RELEASE/reference/#tutorial)
@@ -37,7 +41,7 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 |757153 |[Fran Morés])(https://github.com/Fran-sw)|[Fran-sw/lab2-big-ws](https://github.com/Fran-sw/lab2-big-ws/tree/test) |[![Build Status](https://travis-ci.com/Fran-sw/lab2-big-ws.svg)](https://travis-ci.com/Fran-sw/lab2-big-ws)       | Spring exceptions (Runtime and Service), JUnit tests|                      |
 |761319 |[Marcos Nuez])(https://github.com/Markles01)|[Markles01/lab2-big-ws](https://github.com/Markles01/lab2-big-ws/tree/test) |[![Build Status](https://travis-ci.com/Markles01/lab2-big-ws.svg)](https://travis-ci.com/Markles01/lab2-big-ws)       | JUnit tests, Spring exceptions|                      |
 |755769 |[Saúl Flores](https://github.com/saul205)|[saul205/lab2-big-ws](https://github.com/saul205/lab2-big-ws/tree/test)|![Build Status](https://travis-ci.com/saul205/lab2-big-ws.svg?branch=test)|[JUnit Exception Testing](https://github.com/junit-team/junit4/wiki/Exception-testing)| Re-implement the project with [gRPC](https://yidongnan.github.io/grpc-spring-boot-starter/en/)
-|739202 |[Luis García](https://github.com/luisgg98)|[luisgg98/lab2-big-ws](https://github.com/luisgg98/lab2-big-ws/) |  [![Build Status](https://travis-ci.com/luisgg98/lab2-big-ws.svg)](https://travis-ci.com/luisgg98/lab2-big-ws)    |  Exception Tests  |  Upgrade to WSDL 2.0 and SOAP 1.2                    |  
+|739202 |[Luis García](https://github.com/luisgg98)|[luisgg98/lab2-big-ws](https://github.com/luisgg98/lab2-big-ws/) |  [![Build Status](https://travis-ci.com/luisgg98/lab2-big-ws.svg)](https://travis-ci.com/luisgg98/lab2-big-ws)    |  Exception Tests  |  [Upgrade to WSDL 2.0 and SOAP 1.2](https://github.com/luisgg98/lab2-big-ws/tree/WSDL2.0_AND_SOAP1.2) | :gift: |  
 |756123 |[Rogelio Lacruz](https://github.com/RogorStuff)|[RogorStuff/lab2-big-ws](https://github.com/RogorStuff/lab2-big-ws/tree/test) |[![Build Status](https://travis-ci.org/RogorStuff/lab2-big-ws.svg)](https://travis-ci.org/RogorStuff/lab2-big-ws)    | Spring exceptions, JUnit tests |                      |
 |760704 |[Álvaro García](https://github.com/Alvarogd6)|[Alvarogd6/lab2-big-ws](https://github.com/Alvarogd6/lab2-big-ws/tree/test)|![Build Status](https://travis-ci.com/Alvarogd6/lab2-big-ws.svg?branch=test)|JUnit, Spring ws exceptions| Re-implement the project with [Thrift](https://github.com/aatarasoff/spring-thrift-starter)   |
 |760739 |[Alberto Calvo](https://github.com/AlbertoCalvoRubio)|[AlbertoCalvoRubio/lab2-big-ws](https://github.com/AlbertoCalvoRubio/lab2-big-ws/tree/test)|![Build Status](https://travis-ci.com/AlbertoCalvoRubio/lab2-big-ws.svg?branch=test)|Spring Ws exceptions, Junit|                      |
