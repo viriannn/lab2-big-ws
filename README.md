@@ -32,5 +32,6 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 
 |NIA    | User name | Repo | Build Status | What was explored | Review for :gift: | Score
 |-------|-----------|------|--------------|-------------------|----------------------|--------
-Jose Ignacio Hernandez | 740491 | [![Build Status](https://travis-ci.com/740491/lab1-git-race.svg)](https://travis-ci.com/740491/lab2-big-ws)
+| 740491 |[José Ignacio Hernández](https://github.com/740491)|[740491/lab2-big-ws](https://github.com/740491/lab2-big-ws)| 
+![Build Status](https://travis-ci.com/740491/lab2-big-ws) | Spring exceptions, testing | | 
 
